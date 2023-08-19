@@ -6,4 +6,4 @@ In addition, these datasets are a valuable resource for pharmaceutical companies
 
 In conclusion, the datasets of FDA drugs play a crucial role in the regulatory process, helping to ensure the safety and efficacy of drugs for the public. The data contained within these datasets is a valuable resource for researchers, health professionals, and regulators, helping to drive advancements in drug development and improve patient outcomes.
 
-FDA drugs can be found 
+FDA drugs can be found [here](https://www.fda.gov/drugs/drug-approvals-and-databases/drugsfda-data-files)
